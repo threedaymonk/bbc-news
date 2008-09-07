@@ -1,0 +1,9 @@
+RewriteEngine On
+
+# Serve up HTML pages without extensions
+RewriteRule ^$ index.shtml
+RewriteRule ^([^.]+)$ $1.shtml
+
+# Enable SSI
+Options +Includes
+AddHandler server-parsed .shtml
