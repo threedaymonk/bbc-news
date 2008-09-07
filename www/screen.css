@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+}
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", "Avant Garde", "Century Gothic", "URW Gothic L", sans-serif;
+  text-transform: uppercase;
+  font-size: 300%;
+  background-color: #9A0000;
+  color: #fff;
+  padding-left: 10pt;
+}
+li {
+  padding: 5pt 10pt;
+  border-bottom: 1px solid #ddd;
+}
+a {
+  font-weight: bold;
+  color: #23557E;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:visited {
+  color: #5C8FB3;
+}

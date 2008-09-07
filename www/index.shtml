@@ -6,6 +6,8 @@
   <title>
     BBC 'News'
   </title>
+  <link rel="stylesheet" type="text/css" media="screen" href="reset-min.css" >
+  <link rel="stylesheet" type="text/css" media="screen" href="screen.css" >
 </head>
 
 <body>
