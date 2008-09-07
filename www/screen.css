@@ -9,8 +9,10 @@ h1 {
   color: #fff;
   padding-left: 10pt;
 }
-li {
+li, p {
   padding: 5pt 10pt;
+}
+li {
   border-bottom: 1px solid #ddd;
 }
 a {
@@ -23,4 +25,14 @@ a:hover {
 }
 a:visited {
   color: #5C8FB3;
+}
+li a, li span {
+  display: block;
+}
+li span {
+  font-size: 85%;
+}
+p.footer {
+  background-color: #eee;
+  font-size: 85%;
 }

@@ -14,5 +14,9 @@
   <h1>BBC ‘News’</h1>
 
   <!--#include virtual="fragment.html" -->
+
+  <p class="footer">
+    Made by <a href="/">Paul Battley</a>. <a href="/diary/bbc-news/">Why?</a>
+  </p>
 </body>
 </html>
